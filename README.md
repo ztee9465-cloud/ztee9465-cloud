@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello hello, I'm Zoe! 👋
 
 <!--
 **ztee9465-cloud/ztee9465-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Thanks for stopping by, here's a little about me...
+
+Here are some projects I've completed:
+
+Old University Projects:
